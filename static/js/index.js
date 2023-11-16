@@ -38,7 +38,7 @@ startButton.addEventListener('click', () => {
 
         if (num == 0) {
             const animatedText = document.createElement('div');
-            animatedText.textContent = 'Happy Birthday Bitch';
+            animatedText.textContent = 'You\'re Old!!!';
             animatedText.className = 'animated-text';
 
             // Set random initial positions
